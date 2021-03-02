@@ -1,0 +1,19 @@
+Code Credits:
+
+	John Dolph:
+		
+		Visual class
+		Vertex class
+		Edge class
+		Random Node scatter
+		Simple backtracking
+		Backtracking - Arc Consistency
+		Local Search - Annealing
+		Solution check function
+
+	Dylan Rosenbaum:
+
+		Random edge generation
+		Line intersection checking
+		Backtracking - Forward Checking
+		Local Search - Genetic Algorithm
