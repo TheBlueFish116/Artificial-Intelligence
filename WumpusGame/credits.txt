@@ -1,0 +1,28 @@
+CSCI 446 - Project 2 Credits
+
+  John Dolph:
+
+    Visual Class
+    Main Class
+    World Class
+
+    Agent Class:
+      __init__ function
+      move Function
+      unify Function
+      kb_interpret Function
+      check_goal function
+      show_info function
+
+  Dylan Rosenbaum:
+
+    Agent Class:
+      detect_percepts function
+      add_to_kb function
+      shootArrow funciton
+      resolution function
+      multiples function
+      query function
+      recursive solve function
+      reactive solve function
+      solve function
